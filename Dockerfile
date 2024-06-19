@@ -1,4 +1,4 @@
-FROM quay.io/projectquay/golang:1.17
+FROM quay.io/projectquay/golang:1.22.0
 
 ADD src/hello-world.go hello-world.go
 
